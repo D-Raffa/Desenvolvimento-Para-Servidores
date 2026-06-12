@@ -9,7 +9,7 @@ Este repositório reúne as atividades, exercícios e projetos desenvolvidos dur
 - Praticar a criação de classes, métodos e estruturas orientadas a objetos;
 - Aprimorar a lógica de programação e o desenvolvimento back-end.
 
-## Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - Java
 - PHP
